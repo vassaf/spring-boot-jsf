@@ -1,4 +1,5 @@
-package com.spring.jsf.demo.beans;
+package com.spring.jsf.application.beans;
+
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
 
